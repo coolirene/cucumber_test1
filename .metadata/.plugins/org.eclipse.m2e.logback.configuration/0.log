@@ -1,0 +1,396 @@
+2017-10-22 19:36:31,037 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-10-22 19:38:02,560 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\pom.xml
+2017-10-22 19:38:04,235 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.stackoverflow:CucumberFramework:0.0.1-SNAPSHOT @ C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\pom.xml.
+2017-10-22 19:38:04,608 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CucumberFramework/src/main/java
+2017-10-22 19:38:04,616 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CucumberFramework/src/test/java
+2017-10-22 19:38:05,528 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2017-10-22 19:38:07,328 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 19:38:07,328 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-22 19:38:07,331 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 19:38:07,331 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-22 19:42:03,272 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 19:42:03,273 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-22 19:42:03,275 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 19:42:03,275 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-22 19:42:15,302 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 19:42:15,302 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-22 19:42:15,304 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 19:42:15,304 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-22 19:42:17,598 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 19:42:17,598 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-22 19:42:17,600 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 19:42:17,600 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-22 19:42:18,623 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 19:42:18,623 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-22 19:42:18,625 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 19:42:18,625 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-22 19:42:59,762 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.stackoverflow:CucumberFramework:0.0.1-SNAPSHOT @ C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\pom.xml.
+2017-10-22 19:43:00,900 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 19:43:00,901 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-22 19:43:00,903 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 19:43:00,904 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-22 19:43:03,090 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 19:43:03,091 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-22 19:43:03,095 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 19:43:03,095 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-22 19:43:27,249 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 19:43:27,250 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-22 19:43:27,252 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 19:43:27,253 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-22 19:43:33,088 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-10-22 19:43:33,708 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.stackoverflow:CucumberFramework:0.0.1-SNAPSHOT @ C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\pom.xml.
+2017-10-22 19:43:34,313 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CucumberFramework/src/main/java
+2017-10-22 19:43:34,314 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CucumberFramework/src/test/java
+2017-10-22 19:43:34,658 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2017-10-22 19:43:35,117 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 19:43:35,118 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-22 19:43:35,121 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 19:43:35,121 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-22 19:43:44,606 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-10-22 19:43:45,086 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.stackoverflow:CucumberFramework:0.0.1-SNAPSHOT @ C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\pom.xml.
+2017-10-22 19:43:45,790 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CucumberFramework/src/main/java
+2017-10-22 19:43:45,790 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CucumberFramework/src/test/java
+2017-10-22 19:43:46,062 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2017-10-22 19:43:46,634 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 19:43:46,635 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-22 19:43:46,638 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 19:43:46,638 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-22 19:45:11,296 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 19:45:11,296 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-22 19:45:11,297 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 19:45:11,297 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-22 19:45:48,186 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 19:45:48,187 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-22 19:45:48,188 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 19:45:48,189 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-22 19:50:20,509 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 19:50:20,510 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-22 19:50:20,511 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 19:50:20,511 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-22 20:05:42,930 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 20:05:42,930 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-22 20:05:42,931 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 20:05:42,932 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-22 20:06:04,768 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 20:06:04,768 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-22 20:06:04,769 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 20:06:04,770 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-22 20:06:05,836 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 20:06:05,836 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-22 20:06:05,838 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 20:06:05,838 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-22 20:08:11,184 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 20:08:11,185 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-22 20:08:11,187 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 20:08:11,188 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-22 20:08:39,363 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 20:08:39,363 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-22 20:08:39,364 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 20:08:39,365 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-22 20:08:56,518 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 20:08:56,518 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-22 20:08:56,519 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 20:08:56,519 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-22 20:09:43,373 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 20:09:43,373 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-22 20:09:43,374 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 20:09:43,374 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-22 20:10:24,849 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 20:10:24,849 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-22 20:10:24,850 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 20:10:24,851 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-22 20:41:32,091 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-10-22 20:41:45,368 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 20:41:45,369 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-22 20:41:45,373 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 20:41:45,373 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-22 20:41:56,675 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-10-22 20:41:57,659 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.stackoverflow:CucumberFramework:0.0.1-SNAPSHOT @ C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\pom.xml.
+2017-10-22 20:41:58,526 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CucumberFramework/src/main/java
+2017-10-22 20:41:58,528 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CucumberFramework/src/test/java
+2017-10-22 20:41:58,939 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2017-10-22 20:41:59,495 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 20:41:59,495 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-22 20:41:59,498 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 20:41:59,499 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-22 20:42:50,076 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 20:42:50,077 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-22 20:42:50,078 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 20:42:50,078 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-22 20:46:14,461 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 20:46:14,461 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-22 20:46:14,463 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 20:46:14,463 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-22 20:46:23,028 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 20:46:23,028 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-22 20:46:23,029 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 20:46:23,030 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-22 20:49:21,885 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 20:49:21,886 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-22 20:49:21,888 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 20:49:21,888 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-22 20:49:42,111 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 20:49:42,111 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-22 20:49:42,113 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-22 20:49:42,114 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-29 14:49:01,439 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-10-29 15:15:15,130 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 15:15:15,131 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-29 15:15:15,134 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 15:15:15,135 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-29 15:17:25,610 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 15:17:25,610 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-29 15:17:25,611 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 15:17:25,612 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-29 15:20:38,520 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 15:20:38,520 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-29 15:20:38,521 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 15:20:38,522 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-29 15:21:17,636 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 15:21:17,636 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-29 15:21:17,637 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 15:21:17,637 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-29 15:21:22,135 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 15:21:22,136 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-29 15:21:22,138 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 15:21:22,138 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-29 15:23:55,702 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 15:23:55,702 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-29 15:23:55,703 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 15:23:55,704 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-29 15:37:26,992 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 15:37:26,992 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-29 15:37:26,993 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 15:37:26,994 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-29 15:48:28,741 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 15:48:28,741 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-29 15:48:28,745 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 15:48:28,745 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-29 15:53:12,452 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 15:53:12,452 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-29 15:53:12,453 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 15:53:12,454 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-29 15:53:45,288 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 15:53:45,288 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-29 15:53:45,289 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 15:53:45,290 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-29 15:54:01,436 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 15:54:01,436 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-29 15:54:01,437 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 15:54:01,437 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-29 15:54:43,329 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 15:54:43,330 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-29 15:54:43,331 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 15:54:43,332 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-29 17:13:57,882 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 17:13:57,883 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-29 17:13:57,885 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 17:13:57,885 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-29 17:16:49,449 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 17:16:49,449 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-29 17:16:49,450 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 17:16:49,451 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-29 17:17:30,946 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 17:17:30,946 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-29 17:17:30,948 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 17:17:30,948 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-29 17:17:42,156 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 17:17:42,156 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-29 17:17:42,157 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 17:17:42,158 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-29 18:08:02,992 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:08:02,993 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-29 18:08:02,994 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:08:02,994 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-29 18:16:21,344 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:16:21,345 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-29 18:16:21,346 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:16:21,347 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-29 18:16:41,212 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:16:41,212 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-29 18:16:41,218 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:16:41,218 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-29 18:17:22,403 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:17:22,404 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-29 18:17:22,406 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:17:22,406 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-29 18:17:26,754 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:17:26,755 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-29 18:17:26,756 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:17:26,756 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-29 18:18:50,534 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:18:50,534 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-29 18:18:50,535 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:18:50,535 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-29 18:20:36,866 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:20:36,866 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-29 18:20:36,867 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:20:36,867 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-29 18:21:21,435 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:21:21,436 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-29 18:21:21,437 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:21:21,437 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-29 18:22:16,507 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:22:16,508 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-29 18:22:16,509 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:22:16,509 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-29 18:22:35,327 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:22:35,327 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-29 18:22:35,329 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:22:35,329 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-29 18:22:44,937 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:22:44,938 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-29 18:22:44,938 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:22:44,939 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-29 18:28:14,384 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:28:14,385 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-29 18:28:14,388 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:28:14,389 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-29 18:29:01,688 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:29:01,688 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-29 18:29:01,689 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:29:01,689 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-29 18:29:40,472 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:29:40,472 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-29 18:29:40,473 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:29:40,473 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-29 18:29:51,833 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:29:51,834 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-29 18:29:51,834 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:29:51,835 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-29 18:45:46,492 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:45:46,493 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-29 18:45:46,494 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:45:46,494 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-29 18:46:04,619 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:46:04,620 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-29 18:46:04,620 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:46:04,621 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-29 18:46:41,625 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:46:41,625 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-29 18:46:41,626 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:46:41,626 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-29 18:52:04,418 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:52:04,419 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-29 18:52:04,419 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:52:04,420 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-29 18:53:11,586 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:53:11,586 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-29 18:53:11,587 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:53:11,587 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-29 18:58:12,010 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:58:12,011 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-29 18:58:12,011 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:58:12,012 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-29 18:58:17,004 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:58:17,005 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-29 18:58:17,006 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:58:17,006 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-29 18:58:31,724 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:58:31,724 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-29 18:58:31,725 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:58:31,725 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-29 18:58:40,916 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:58:40,917 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-29 18:58:40,917 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:58:40,918 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-29 18:58:46,054 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:58:46,055 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-29 18:58:46,055 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:58:46,056 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-29 18:58:57,982 [Worker-81] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-10-29 18:58:58,959 [Worker-81] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.stackoverflow:CucumberFramework:0.0.1-SNAPSHOT @ C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\pom.xml.
+2017-10-29 18:58:59,878 [Worker-81] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CucumberFramework/src/main/java
+2017-10-29 18:58:59,879 [Worker-81] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CucumberFramework/src/test/java
+2017-10-29 18:59:00,235 [Worker-81] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2017-10-29 18:59:00,884 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:59:00,885 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-29 18:59:00,888 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-29 18:59:00,888 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-30 10:43:57,336 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-10-30 12:36:17,036 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-30 12:36:17,037 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-30 12:36:17,041 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-30 12:36:17,041 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-30 12:36:35,281 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-30 12:36:35,282 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-30 12:36:35,284 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-30 12:36:35,284 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-30 12:37:09,808 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-30 12:37:09,809 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-30 12:37:09,811 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-30 12:37:09,812 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-30 12:37:32,827 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-30 12:37:32,827 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-30 12:37:32,829 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-30 12:37:32,829 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-30 12:41:55,958 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-30 12:41:55,959 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-30 12:41:55,960 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-30 12:41:55,960 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-30 12:43:16,225 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-30 12:43:16,226 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-30 12:43:16,227 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-30 12:43:16,228 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-30 12:43:54,953 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-30 12:43:54,954 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-30 12:43:54,955 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-30 12:43:54,955 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-30 12:50:21,363 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-30 12:50:21,363 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-30 12:50:21,366 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-30 12:50:21,366 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-30 12:53:12,353 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-30 12:53:12,353 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-30 12:53:12,355 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-30 12:53:12,355 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-30 12:54:27,567 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-30 12:54:27,567 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-30 12:54:27,568 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-30 12:54:27,569 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-30 12:59:33,075 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-30 12:59:33,075 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-30 12:59:33,077 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-30 12:59:33,077 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-30 13:02:27,028 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-30 13:02:27,029 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-30 13:02:27,030 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-30 13:02:27,031 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-30 13:02:35,289 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-30 13:02:35,289 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-30 13:02:35,290 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-30 13:02:35,291 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-30 13:02:40,327 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-30 13:02:40,327 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-30 13:02:40,328 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-30 13:02:40,328 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-30 13:02:49,225 [Worker-43] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-10-30 13:02:50,022 [Worker-43] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.stackoverflow:CucumberFramework:0.0.1-SNAPSHOT @ C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\pom.xml.
+2017-10-30 13:02:50,826 [Worker-43] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CucumberFramework/src/main/java
+2017-10-30 13:02:50,827 [Worker-43] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CucumberFramework/src/test/java
+2017-10-30 13:02:51,157 [Worker-43] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2017-10-30 13:02:51,803 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-30 13:02:51,803 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-30 13:02:51,808 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-30 13:02:51,808 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-30 13:05:16,120 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-10-30 13:19:41,484 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-30 13:19:41,485 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-30 13:19:41,488 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-30 13:19:41,488 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-30 13:21:43,950 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-30 13:21:43,951 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-30 13:21:43,952 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-30 13:21:43,953 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-30 13:22:40,194 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-30 13:22:40,194 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-30 13:22:40,196 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-30 13:22:40,196 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-30 13:23:24,155 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-30 13:23:24,156 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-30 13:23:24,158 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-30 13:23:24,158 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
+2017-10-30 13:23:29,911 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-30 13:23:29,911 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\main\resources
+2017-10-30 13:23:29,913 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-30 13:23:29,913 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GBruno\Desktop\CucumberFramework\CucumberFramework\src\test\resources
